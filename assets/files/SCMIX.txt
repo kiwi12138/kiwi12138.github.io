@@ -1,6 +1,10 @@
-@article{yao2024scmix,
+@article{yao2025scmix,
   title={SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation},
   author={Yao, Kai and Tan, Zhaorui and Su, Zixian and Yang, Xi and Sun, Jie and Huang, Kaizhu},
-  journal={arXiv preprint arXiv:2405.14278},
-  year={2024}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  volume={36},
+  number={9},
+  pages={16803--16813},
+  doi={10.1109/tnnls.2025.3560318}
 }

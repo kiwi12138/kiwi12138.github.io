@@ -1,20 +1,55 @@
 main:
 
-  - title: Decentralizing Test-time Adaptation under Heterogeneous Data Streams
+  - title: "CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations"
+    authors: <strong>Zixian Su*</strong>, Hongkai Zhang*, Fan Gao*, Encheng Su, Taiping Qu, Jingwei Guo, Nan Zhang, Hui Wang, Zhen Zhou, Kairui Bo, Yan Chen, Yue Ren, Shuai Li, Lei Xu, Henggui Zhang
+    conference_short: NeurIPS2026
+    conference: Conference on Neural Information Processing Systems, 2026
+    pdf: https://arxiv.org/pdf/2606.00123
+    bibtex: ./assets/files/CardioLens.txt
+    image: ./assets/files/CardioLens_banner.png
+    image_fit: contain
+    notes: Accepted
+
+  - title: Rethinking Spectral Graph Neural Networks With Spatially Adaptive Filtering
+    authors: Jingwei Guo, Kaizhu Huang, Xinping Yi, <strong>Zixian Su</strong>, Rui Zhang
+    conference_short: TNNLS2026
+    conference: IEEE Transactions on Neural Networks and Learning Systems, 37(9):4696–4710, 2026
+    pdf: https://arxiv.org/pdf/2401.09071
+    code: https://github.com/jingweio/SAF
+    bibtex: ./assets/files/SAF.txt
+    image: ./assets/files/SAF_banner.svg
+    image_fit: contain
+    notes: Published
+
+  - title: "BAAI Cardiac Agent: An Intelligent Multimodal Agent for Automated Reasoning and Diagnosis of Cardiovascular Diseases from Cardiac Magnetic Resonance Imaging"
+    authors: Taiping Qu, Hongkai Zhang, Lantian Zhang, Can Zhao, Nan Zhang, Hui Wang, Zhen Zhou, Mingye Zou, Kairui Bo, Pengfei Zhao, Xingxing Jin, <strong>Zixian Su</strong>, Kun Jiang, Huan Liu, Yu Du, Maozhou Wang, Ruifang Yan, Zhongyuan Wang, Tiejun Huang, Lei Xu, Henggui Zhang
+    conference_short: arXiv
+    conference: Preprint, 2026
+    pdf: https://arxiv.org/pdf/2604.04078
+    code: https://github.com/plantain-herb/Cardiac-Agent
+    bibtex: ./assets/files/CardiacAgent.txt
+    image: ./assets/files/CardiacAgent_banner.png
+    image_fit: contain
+    notes: Under revision at Nature Communications
+
+  - title: Un-mixing Test-time Adaptation under Heterogeneous Data Streams
     authors: <strong>Zixian Su*</strong>, Jingwei Guo*, Xi Yang, Qiufeng Wang, Kaizhu Huang
-    conference_short: Arxiv
-    pdf: ./assets/files/TTA2.pdf
+    conference_short: arXiv
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2411.15173
+    code: https://github.com/kiwi12138/FreDA
     bibtex: ./assets/files/TTA2.txt
     image: ./assets/files/TTA2_banner.png
-    notes: Under Review
+    notes: Under revision at IEEE TNNLS
 
-  - title: Navigating Distribution Shifts in Medical Image Analysis - A Survey
+  - title: "Navigating Distribution Shifts in Medical Image Analysis: A Survey"
     authors: <strong>Zixian Su*</strong>, Jingwei Guo*, Xi Yang, Qiufeng Wang, Frans Coenen, Amir Hussain, Kaizhu Huang
-    conference_short: Arxiv
-    pdf: ./assets/files/Survey.pdf
+    conference_short: arXiv
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2411.05824
     bibtex: ./assets/files/Survey.txt
     image: ./assets/files/Survey_banner.png
-    notes: Under Review
+    notes: Under revision at TMLR
     
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: <strong>Zixian Su</strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
@@ -24,13 +59,13 @@ main:
     code: https://github.com/kiwi12138/RealisticTTA
     bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: Published · Oral
 
-  - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
+  - title: "SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation"
     authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
     pdf: https://arxiv.org/pdf/2405.14278
-    conference_short: TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems
+    conference_short: TNNLS2025
+    conference: IEEE Transactions on Neural Networks and Learning Systems, 36(9):16803–16813, 2025
     bibtex: ./assets/files/SCMIX.txt
     image: ./assets/files/OCDA_banner.png
     notes: Published
@@ -52,7 +87,7 @@ main:
     pdf: ./assets/files/CIKM.pdf
     bibtex: ./assets/files/CIKM.txt
     image: ./assets/files/CIKM.png
-    notes: Published
+    notes: Published · Oral
 
 
   - title: Mind the gap:Alleviating local imbalance for unsupervised cross-modality medical image segmentation
@@ -60,6 +95,7 @@ main:
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics
     pdf: ./assets/files/UDA2D.pdf
+    code: https://github.com/kiwi12138/GLUA
     bibtex: ./assets/files/UDA2D.txt
     image: ./assets/files/UDA2D.png
     notes: Published
@@ -75,6 +111,7 @@ main:
     notes: Published
 
   - title: CrossMoDA 2021 challenge:Benchmark of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation
+    authors: R. Dorent, A. Kujawa, M. Ivory, ..., <strong>Zixian Su</strong>, ..., T. Vercauteren
     conference_short: MIA
     conference: Medical Image Analysis
     pdf: https://www.sciencedirect.com/science/article/pii/S1361841522002560

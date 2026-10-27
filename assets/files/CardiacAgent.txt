@@ -1,0 +1,9 @@
+@misc{qu2026baaicardiacagentintelligent,
+      title={BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging},
+      author={Taiping Qu and Hongkai Zhang and Lantian Zhang and Can Zhao and Nan Zhang and Hui Wang and Zhen Zhou and Mingye Zou and Kairui Bo and Pengfei Zhao and Xingxing Jin and Zixian Su and Kun Jiang and Huan Liu and Yu Du and Maozhou Wang and Ruifang Yan and Zhongyuan Wang and Tiejun Huang and Lei Xu and Henggui Zhang},
+      year={2026},
+      eprint={2604.04078},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2604.04078},
+}

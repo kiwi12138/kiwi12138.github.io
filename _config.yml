@@ -3,8 +3,8 @@ title: Zixian Su
 position: Researcher
 affiliation: Beijing Academy of Artificial Intelligence (BAAI)
 subaffiliation: Life Simulation Research Center
-affiliation_link: https://www.liverpool.ac.uk
-subaffiliation_link: https://www.baai.ac.cn/english.html
+affiliation_link: https://www.baai.ac.cn/en/
+subaffiliation_link: https://www.baai.ac.cn/en/
 #affiliation_logo: ./assets/img/university-of-liverpool-logo-vector.png
 email: zxsu (at) baai.ac.cn
 email2: zixian12138 (at) 163.com
@@ -13,8 +13,8 @@ address_link: https://www.google.fr/maps/place/中国北京市海淀区成府路
 
 # Search Engine Optimization (SEO)
 keywords: zixian su, su zixian, suzixian, zixiansu
-canonical: https://minimal-light-theme.yliu.me/
-description: Zixian Su is a researcher at Beijing Academy of Artificial Intelligence (BAAI).
+canonical: https://kiwi12138.github.io/
+description: Zixian Su is a researcher at BAAI working on reliable adaptation, multimodal models and agents, medical image analysis, and 3D/4D cardiac reconstruction.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false

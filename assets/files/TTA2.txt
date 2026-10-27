@@ -1,6 +1,9 @@
-@article{su2024decentralizing,
-  title={Decentralizing Test-time Adaptation under Heterogeneous Data Streams},
-  author={Su, Zixian and Guo, Jingwei and Yang, Xi and Wang, Qiufeng and Huang, Kaizhu},
-  journal={arXiv preprint arXiv:2411.15173},
-  year={2024}
+@misc{su2025unmixingtesttimeadaptationheterogeneous,
+      title={Un-mixing Test-time Adaptation under Heterogeneous Data Streams},
+      author={Zixian Su and Jingwei Guo and Xi Yang and Qiufeng Wang and Kaizhu Huang},
+      year={2025},
+      eprint={2411.15173},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.15173},
 }

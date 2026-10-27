@@ -1,9 +1,10 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px -10px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=E-Mcb5AAAAAJ&hl=en&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">
+<h2 style="margin: 30px -10px -15px;">Publications <span style="font-size:15px;">[<a href="https://scholar.google.com/citations?user=E-Mcb5AAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a>]</span></h2>
 
 
 <div class="publications">
+<p style="font-size:14px;">* Equal contribution.</p>
 <ol class="bibliography">
 {% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
 {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
@@ -13,7 +14,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=120;height=55%">
+    <img src="{{ link.image }}" alt="Overview of {{ link.title | escape }}" loading="lazy" class="teaser img-fluid z-depth-1" style="object-fit: {{ link.image_fit | default: 'cover' }};">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -64,8 +65,9 @@
   </div>
 </div>
 
+<br>
 </li>
 
-<br>
-
 {% endfor %}
+</ol>
+</div>

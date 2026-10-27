@@ -1,0 +1,10 @@
+@misc{su2026cardiolensrevealingclinicalreality,
+      title={CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations},
+      author={Zixian Su and Hongkai Zhang and Fan Gao and Encheng Su and Taiping Qu and Jingwei Guo and Nan Zhang and Hui Wang and Zhen Zhou and Kairui Bo and Yan Chen and Yue Ren and Shuai Li and Lei Xu and Henggui Zhang},
+      year={2026},
+      eprint={2606.00123},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.00123},
+      note={Accepted at NeurIPS 2026},
+}
