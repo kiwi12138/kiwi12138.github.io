@@ -2,9 +2,9 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 <ul>
-<li><strong>[2026]</strong> Our paper <span style="color:#e74d3c"><a href="https://arxiv.org/abs/2606.00123">CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations</a></span> has been accepted at <strong>NeurIPS 2026</strong>.</li>
-<li><strong>[2026]</strong> I am an organizer of <strong>CMR-Multi</strong>, a multi-center, multi-sequence, and multi-view cardiac MRI challenge, held in conjunction with the <a href="https://mwm2026.github.io/">1st Medical World Model Workshop at MICCAI 2026</a>.</li>
+<li><strong>[SEP. 2026]</strong> Our paper <span style="color:#e74d3c"><a href="https://arxiv.org/abs/2606.00123">CardioLens</a></span> has been accepted at <strong>NeurIPS 2026</strong>!</li>
 <li><strong>[SEP. 2026]</strong> Our collaborative paper <span style="color:#e74d3c"><a href="https://doi.org/10.1109/TNNLS.2026.3673098">Rethinking Spectral Graph Neural Networks With Spatially Adaptive Filtering</a></span> has been published in <strong>IEEE TNNLS</strong>. <a href="https://github.com/jingweio/SAF">Code</a> is available.</li>
+<li><strong>[APR. 2026]</strong> Happy to co-organize <strong>CMR-Multi</strong>, a challenge on multi-center, multi-sequence, and multi-view cardiac MRI, as part of the <a href="https://mwm2026.github.io/">1st Medical World Model Workshop at MICCAI 2026</a>!</li>
 <li><strong>[APR. 2026]</strong> We introduced <span style="color:#e74d3c"><a href="https://arxiv.org/abs/2604.04078">BAAI Cardiac Agent</a></span>, a multimodal agent for automated cardiac MRI analysis, diagnostic reasoning, and report generation. <a href="https://github.com/plantain-herb/Cardiac-Agent">Code</a> is available.</li>
 <li><strong>[SEP. 2025]</strong> Our collaborative paper <span style="color:#e74d3c"><a href="https://doi.org/10.1109/TNNLS.2025.3560318">SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation</a></span> has been published in <strong>IEEE TNNLS</strong>.</li>
 <li><strong>[JAN. 2025]</strong> I joined the Life Simulation Research Center at <span style="color:#e74d3c"><a href="https://www.baai.ac.cn/en/">Beijing Academy of Artificial Intelligence (BAAI)</a></span> as a researcher, working on medical image analysis and cardiac reconstruction.</li>

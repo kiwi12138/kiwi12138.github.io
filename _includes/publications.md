@@ -12,10 +12,12 @@
 
 
 <li>
-<div class="pub-row">
+<div class="pub-row{% if link.image_fit == 'contain' %} full-figure{% endif %}">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% if link.image_fit == 'contain' %}<a href="{{ link.image }}" target="_blank" rel="noopener" aria-label="View full-size figure for {{ link.title | escape }}">{% endif %}
     <img src="{{ link.image }}" alt="Overview of {{ link.title | escape }}" loading="lazy" class="teaser img-fluid z-depth-1" style="object-fit: {{ link.image_fit | default: 'cover' }};">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% if link.image_fit == 'contain' %}</a>{% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
