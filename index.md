@@ -8,7 +8,7 @@ layout: homepage
 
 I am a researcher at the Life Simulation Research Center, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en/). I received my Ph.D. in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in 2024, advised by Profs. [Xi Yang](https://scholar.xjtlu.edu.cn/en/persons/XiYang01/), [Kaizhu Huang](https://faculty.dukekunshan.edu.cn/faculty_profiles/kaizhu-huang), [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang/), and [Frans Coenen](https://www.csc.liv.ac.uk/~frans/).
 
-My research focuses on reliable AI, spanning **test-time adaptation and domain generalization**, **multimodal models and agents**, and **medical image analysis**. My recent work includes cardiac MRI analysis and **3D/4D cardiac reconstruction**.
+My research aims to build **AI systems that can adapt, reason, and act reliably in complex, evolving environments**. I study the principles of adaptation and generalization under distribution shifts, with **medical imaging** as a central domain for connecting robust learning with quantitative understanding of anatomy and function. My recent work on **multimodal large language models and agents** extends this effort from image understanding and patient-specific modeling toward evidence-grounded reasoning, with the broader goal of bringing perception, modeling, and reasoning together in dependable systems for science and medicine.
 
 ## Research Interests
 
