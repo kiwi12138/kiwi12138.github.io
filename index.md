@@ -16,7 +16,6 @@ My research aims to build **AI systems that can adapt, reason, and act reliably 
 - **Reliable Multimodal Large Language Models and Agents**
 - **Medical Image Analysis and Clinical Reasoning**
 - **3D/4D Cardiac Reconstruction and Quantitative Analysis**
-- **AI for Science**
 
 
 {% include_relative _includes/news.md %}
