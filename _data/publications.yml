@@ -5,6 +5,8 @@ main:
     conference_short: NeurIPS2026
     conference: Conference on Neural Information Processing Systems, 2026
     pdf: https://arxiv.org/pdf/2606.00123
+    code: https://github.com/kiwi12138/CardioLens
+    data: https://huggingface.co/datasets/kiwi12138/CardioLens
     bibtex: ./assets/files/CardioLens.txt
     image: ./assets/files/CardioLens_banner.png
     image_fit: contain
