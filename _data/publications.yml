@@ -51,7 +51,7 @@ main:
     pdf: https://arxiv.org/pdf/2411.05824
     bibtex: ./assets/files/Survey.txt
     image: ./assets/files/Survey_banner.png
-    notes: Under revision at TMLR
+    notes: Under review at TMLR
     
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: <strong>Zixian Su</strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
